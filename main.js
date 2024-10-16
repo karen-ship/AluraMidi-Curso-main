@@ -30,4 +30,6 @@ for (let contador = 0; contador < listaDeTeclas.length; contador++) {
 
 }
 
+// prueba para push git
+
 // document.querySelector('.tecla_pom').onclick = playSonidoPom; ''
